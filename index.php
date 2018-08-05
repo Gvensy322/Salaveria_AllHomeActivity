@@ -15,7 +15,7 @@
 </p>
 
 <p>
-<a href=https://salaveriaitmm103homeactivity2.herokuapp.com/>Link to Activity 02</a>
+<a href="Activity02.php">Link to Activity 02</a>
 </p>
 
 <p>
