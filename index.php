@@ -19,7 +19,7 @@
 </p>
 
 <p>
-<a href="Activity04.php">Link to Activity 03</a>
+<a href="Activity03.php">Link to Activity 03</a>
 </p>
 
 <p>
