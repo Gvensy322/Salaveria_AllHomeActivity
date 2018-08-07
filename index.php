@@ -23,7 +23,7 @@
 </p>
 
 <p>
-<a href=https://salaveriahelloworldwebsite.herokuapp.com/>Link to Activity 04</a>
+<a href="Activity04.php">Link to Activity 04</a>
 </p>
 
 <p>
