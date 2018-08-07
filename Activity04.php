@@ -1,5 +1,8 @@
 <!DOCTYPE html>
 <html>
+<head>
+<title>Username & Password</title>
+</head>
 <body>
 
 <form action="receiver.php" method="post">
